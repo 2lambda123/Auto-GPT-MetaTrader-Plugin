@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/sourcery-ai/sourcery
-    rev: v1.27.0 # Get the latest tag from https://github.com/sourcery-ai/sourcery/tags
+    rev: v1.28.0 # Get the latest tag from https://github.com/sourcery-ai/sourcery/tags
     hooks:
       - id: sourcery
 
